@@ -130,7 +130,6 @@
 			}
 		};
 
-		// geocoder.addressSearch('경북 경산시 펜타힐즈2로 20', callback);
 
 		$("#st_mp").change(function() {
 			geocoder.addressSearch($("#st_mp").val(), callback);
