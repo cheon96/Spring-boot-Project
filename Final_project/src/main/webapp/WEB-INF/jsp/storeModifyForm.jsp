@@ -22,7 +22,7 @@
 	src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.js"></script>
 <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
 <script type="text/javascript"
-	src="//dapi.kakao.com/v2/maps/sdk.js?appkey=547998bf23fd4dc95fc3ee0ad6d8b8ce&libraries=services"></script>
+	src="//dapi.kakao.com/v2/maps/sdk.js?appkey=앱키&libraries=services"></script>
 <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js"
 	crossorigin="anonymous"></script>
 <style>
